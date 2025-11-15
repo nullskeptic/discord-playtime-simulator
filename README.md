@@ -3,8 +3,7 @@
 A PowerShell script that simulates Discord game activity by generating a placeholder executable file. 
 
 ## **Usage**
-- Copy paste any lightweight executable file in the script’s working directory.
-- Run the script
+- Copy paste any lightweight executable file in the script’s working directory or directly run the script
 
 ## **Parameters**
 
@@ -26,3 +25,4 @@ C:\Users\<User>\Desktop\win64\dota2.exe
 ```
 
 **Note:** Match the real game’s filename and folder structure for Discord to detect it properly.
+
